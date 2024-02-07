@@ -7,7 +7,7 @@ This website is a hobby project as a part of the learning and development under 
 - Instead of a program script, we will be making a website with minimalistic UI/UX.
 - Technologies we will be working on Flask, HTML, Tailwind CSS, Javascript. :) Simple !
 
---
+---
 Following are the good first steps before jumping into coding - 
 - Fork the repository on your GitHub profile.
 - Clone the forked repository from your GitHub profile.
