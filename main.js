@@ -1,0 +1,13 @@
+function solve(){
+
+
+
+
+}
+
+
+function reset(){
+
+
+    
+}
